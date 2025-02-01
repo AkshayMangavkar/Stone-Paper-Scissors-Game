@@ -32,6 +32,7 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 5. Your result is displayed instantly.
 
 ## 🔧 How to Run the Project?
+
 1. Clone the repository: git clone https://github.com/AkshayMangavkar/Stone-Paper-Scissors-Game.git
 
 2. Open the `index.html` file in a browser.
